@@ -8,3 +8,4 @@ Welcome to the project documentation.
    :caption: Contents:
 
    setup
+   guide
