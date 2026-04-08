@@ -9,3 +9,4 @@ Welcome to the project documentation.
 
    setup
    guide
+   picodingagent

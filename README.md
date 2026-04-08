@@ -33,3 +33,4 @@ This repository contains a minimal documentation setup using Sphinx and Read the
 4. Trigger first build.
 
 Your docs entry page is `docs/index.rst`.
+Current pages included in navigation: `setup`, `guide`, and `picodingagent`.
