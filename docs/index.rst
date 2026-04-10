@@ -10,3 +10,4 @@ Welcome to the project documentation.
    setup
    guide
    picodingagent
+   pi-agent-revolution
