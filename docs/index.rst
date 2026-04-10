@@ -11,3 +11,4 @@ Welcome to the project documentation.
    guide
    picodingagent
    pi-agent-revolution
+   todo-task
